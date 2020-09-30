@@ -208,7 +208,7 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oAdVLb8.png" group-title="Músicas", Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
-https://img.elo7.com.br/product/original/24A98BE/quadro-poster-harry-potter-a-pedra-filosofal-harry-potter-e-a-pedra-filosofal.jpg" tvg-name=""radio=true,Harry Potter e a Pedra Filosofal
+#EXTINF:-1 group-title="Harry Potter" tvg-logo="https://img.elo7.com.br/product/original/24A98BE/quadro-poster-harry-potter-a-pedra-filosofal-harry-potter-e-a-pedra-filosofal.jpg" tvg-name=""radio=true,Harry Potter e a Pedra Filosofal
 https://1drv.ms/v/s!AoBGjjWVrWAZ32F68mDIMO3Ezp3N?e=DQSczl
 
 #EXTINF:-1 group-title="Harry Potter" tvg-logo="https://radiomixfm.com.br/wp-content/uploads/2020/07/harrypotter-netflix.png" tvg-name=""radio=true,Harry Potter e a Câmara Secreta
