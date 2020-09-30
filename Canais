@@ -1,0 +1,209 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Abertos", Globo HD
+https://geralorigin.eu-central-1.edge.mycdn.live/live/globosp/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Abertos", Record HD
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Abertos", Band HD
+http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Abertos", SBT HD
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Rede.Uni%C3%A3o.de.Televis%C3%A3o.png" group-title="Abertos", TV união
+https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/29bd5af93095d92009a3090c0b978a60.png" group-title="Abertos", Diario do Sertao
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/436bef8a50bb812e1894c7fe29107957.png" group-title="Abertos", TV Ambiental
+https://59e4b6c1beddc.streamlock.net/8168/8168/chunklist_w1091858751.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Abertos", Canção Nova
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Abertos", Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Abertos", Canal Futura
+https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Abertos", TVE
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-cultura-logo-8043A38965-seeklogo.com.png" group-title="Abertos", TV CULTURA
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1766700799.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Abertos", Agro Brasil
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/chunklist_w1647341087.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", A&E HD
+https://geralorigin.eu-central-1.edge.mycdn.live/live/aehd/video.m3u8
+
+#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", AXN HD
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/axnsd/video.m3u8
+
+#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", HBO2 HD
+http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8
+
+#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", Fox Premium 1 HD
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+
+#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", Fox Premium 2 HD
+https://geralorigin.eu-central-1.edge.mycdn.live/live/foxpremium2sd/video.m3u8
+
+#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", FX HD
+https://geralorigin.eu-central-1.edge.mycdn.live/live/fxhd/video.m3u8
+
+#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", Space HD
+https://geralorigin.eu-central-1.edge.mycdn.live/live/spacehd/video.m3u8
+
+#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", Telecine Premium HD
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/telecinepremiumsd/video.m3u8
+
+#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", Universal Channel
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/universalsd/video.m3u8
+
+#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", Telecine Action HD
+https://geralorigin.eu-central-1.edge.mycdn.live/live/telecineactionhd/video.m3u8
+
+#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", TNT HD
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/tnthd/video.m3u8
+
+#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", Megapix HD
+
+#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", Fox Channel HD
+https://geralorigin.eu-central-1.edge.mycdn.live/live/foxhd/video.m3u8
+
+#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", Cinemax HD
+https://geralorigin.eu-central-1.edge.mycdn.live/live/cinemaxhd/video.m3u8
+
+#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", Sony HD
+https://geralorigin.eu-central-1.edge.mycdn.live/live/sonyhd/video.m3u8
+
+#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", Studio Universal
+https://geralorigin.eu-central-1.edge.mycdn.live/live/studiouniversalsd/video.m3u8
+
+#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", Warner Channel HD
+https://geralorigin.eu-central-1.edge.mycdn.live/live/warnerbrosshd/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Filmes e Series", Lifetime HD
+http://195.181.163.183:2200/PY-N/Lifetime_HD-br/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Infantil", Cartoon Network HD
+http://195.181.163.183:2200/PY-N/Cartoon_HD-br/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Infantil", Nick Jr HD
+http://195.181.163.183:2200/PY-N/Nick_Jr_HD-br/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Infantil", Nickelodeon HD
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/nicksd/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Infantil", Discovery Kids HD
+http://195.181.163.183:2200/PY-N/Discovery_Ks_HD-br/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Infantil", Boomerang HD
+http://195.181.163.183:2200/PY-N/Boomerang_HD-br/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/05ad1060b11abe78c4958ca305b2d168.png" group-title="Infantil", Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Esportes", Band Sports HD
+http://195.181.163.183:2200/PY-N/Band_Sports_HD-br/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Esportes", Combate HD
+http://195.181.163.183:2200/PY-N/Combate_HD-br/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Esportes", ESPN Extra
+https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Esportes", ESPN HD
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_480_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Esportes", ESPN 2 HD
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_360_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Esportes", Fox Sports HD
+http://195.181.163.183:2200/PY-N/Fox_Sports_HD-br/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Esportes", Fox Sports 2 HD
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/foxsports2hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Esportes", Sportv HD
+http://195.181.163.183:2200/PY-N/Sportv_HD-br/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Esportes", Sportv 2 HD
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportv2sd/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Esportes", Sportv 3
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportv3sd/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Esportes", Premiere
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1sd/video.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentários", Discovery Channel HD
+http://195.181.163.183:2200/PY-N/Discovery_Channel_HD-br/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentários", History Channel HD
+http://195.181.163.183:2200/PY-N/The_History_Channel_HD-br/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentários", Animal Planet HD
+http://195.181.163.183:2200/PY-N/Animal_Planet_HD-br/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentários", Nat Geo HD
+http://195.181.163.183:2200/PY-N/Nat_Geo_HD-br/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="Documentários", RT Documentary Channel
+https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mebis.bayern.de/wp-content/uploads/sites/2/2019/10/960.png" group-title="Documentários", DW - Latino América
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentários", GarageTV
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w275294852_b1296000_sleng.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Noticias", Globo News HD
+http://195.181.163.183:2200/PY-N/Globo_News_HD-br/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="Noticias", Record News HD
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Noticias", Band News HD
+http://195.181.163.183:2200/PY-N/Band_News_HD-br/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Músicas", Multishow
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/multishowsd/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Músicas", MTV
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/mtvsd/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Músicas", Top TV
+https://5d23bdca513db.streamlock.net/8006/8006/chunklist_w654982812.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/801/931/png-transparent-k-pop-arirangtv-music-korean-broadcasting-system-others-text-logo-kpop.png" group-title="Músicas", Kpop TV
+https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoar/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/7e/b8/7eb8224bf684fb3a319e273ffd0d370a.jpg" group-title="Músicas", Krone HIT
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://retromusic.com.uy/player/tmp/images/default.png" group-title="Músicas", Retro Music HD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Músicas", 1HD Music
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oAdVLb8.png" group-title="Músicas", Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
