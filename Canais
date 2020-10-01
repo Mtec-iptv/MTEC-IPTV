@@ -5,7 +5,7 @@ https://geralorigin.eu-central-1.edge.mycdn.live/live/globosp/video.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-7LbdShGEuwk/VmbbgTjmO2I/AAAAAAAABpk/vFCW7XlKgPw/s1600/RECORD.png" group-title="Abertos", Record HD
 https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="Abertos", https://3.bp.blogspot.com/-7LbdShGEuwk/VmbbgTjmO2I/AAAAAAAABpk/vFCW7XlKgPw/s1600/RECORD.pnghttps://3.bp.blogspot.com/-7LbdShGEuwk/VmbbgTjmO2I/AAAAAAAABpk/vFCW7XlKgPw/s1600/RECORD.png
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="Abertos", SBT HD
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/24/6/15/tv-bandeirantes-campinas-logo-tv-bandeirantes-rio-de-janeiro-png-favpng-JzEN24XHZxAaSHWbfquHjsg6N.jpg" group-title="Abertos", SBT HD
@@ -43,16 +43,16 @@ http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/chunklist_w1647341087.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png" group-title="Filmes e Series", A&E HD
 https://geralorigin.eu-central-1.edge.mycdn.live/live/aehd/video.m3u8
 
-#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", AXN HD
+#EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/334-3348608_axn-hd-logo-2015-axn-logo-png-transparent.png" group-title="Filmes e Series", AXN HD
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/axnsd/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/334-3348608_axn-hd-logo-2015-axn-logo-png-transparent.png" group-title="Filmes e Series", HBO2 HD
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series", HBO2 HD
 http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-premium-1-hd_m.png" group-title="Filmes e Series", Fox Premium 1 HD
+#EXTINF:-1 tvg-logo="https://futebolplayhd.com/imagens-futebol/f87a65d38810145cc49e01d0a3b40797.jpg" group-title="Filmes e Series", Fox Premium 1 HD
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/associacaoneo.com.br/wp-content/uploads/2014/11/LOGO-FOXPREMIUM_BRASIL2.png" group-title="Filmes e Series", Fox Premium 2 HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/39/f8/57/39f857846bc05dc1a611ae5fc736e600.png" group-title="Filmes e Series", Fox Premium 2 HD
 https://geralorigin.eu-central-1.edge.mycdn.live/live/foxpremium2sd/video.m3u8
 
 #EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", FX HD
