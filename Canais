@@ -46,7 +46,7 @@ https://geralorigin.eu-central-1.edge.mycdn.live/live/aehd/video.m3u8
 #EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/334-3348608_axn-hd-logo-2015-axn-logo-png-transparent.png" group-title="Filmes e Series", AXN HD
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/axnsd/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/71-718154_hbo-2-hd-png-download.png" group-title="Filmes e Series", HBO2 HD
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/c4/c486ab055dfc2bddf87ff053b1a054c6.png" group-title="Filmes e Series", HBO2 HD
 http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://futebolplayhd.com/imagens-futebol/f87a65d38810145cc49e01d0a3b40797.jpg" group-title="Filmes e Series", Fox Premium 1 HD
@@ -55,13 +55,13 @@ http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/39/f8/57/39f857846bc05dc1a611ae5fc736e600.png" group-title="Filmes e Series", Fox Premium 2 HD
 https://geralorigin.eu-central-1.edge.mycdn.live/live/foxpremium2sd/video.m3u8
 
-#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", FX HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="Filmes e Series", FX HD
 https://geralorigin.eu-central-1.edge.mycdn.live/live/fxhd/video.m3u8
 
-#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", Space HD
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LrWhQBx4zi0/WmO2Ibo5_5I/AAAAAAABDbM/wjOq8TCWZWoAoJTnkvXnc4cZY5Ssu36DACLcBGAs/s640/spacehd.png" group-title="Filmes e Series", Space HD
 https://geralorigin.eu-central-1.edge.mycdn.live/live/spacehd/video.m3u8
 
-#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", Telecine Premium HD
+#EXTINF:-1 tvg-logo="https://clarocombo.claro.com.br/image/Get/478" group-title="Filmes e Series", Telecine Premium HD
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/telecinepremiumsd/video.m3u8
 
 #EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", Universal Channel
