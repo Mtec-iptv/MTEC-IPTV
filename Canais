@@ -190,7 +190,7 @@ https://geralorigin.eu-central-1.edge.mycdn.live/mylive/multishowsd/video.m3u8
 #EXTINF:-1 tvg-logo="https://revista.cifras.com.br/wp-content/uploads/2013/08/6713.7833.jpg" group-title="Músicas", MTV
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/mtvsd/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/0/00/Toptv.png" group-title="Músicas", Top TV
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/0/00/Toptv.png/revision/latest?cb=20131203135556&path-prefix=pt-br" group-title="Músicas", Top TV
 https://5d23bdca513db.streamlock.net/8006/8006/chunklist_w654982812.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/801/931/png-transparent-k-pop-arirangtv-music-korean-broadcasting-system-others-text-logo-kpop.png" group-title="Músicas", Kpop TV
