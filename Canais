@@ -46,7 +46,7 @@ https://geralorigin.eu-central-1.edge.mycdn.live/live/aehd/video.m3u8
 #EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/334-3348608_axn-hd-logo-2015-axn-logo-png-transparent.png" group-title="Filmes e Series", AXN HD
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/axnsd/video.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series", HBO2 HD
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/71-718154_hbo-2-hd-png-download.png" group-title="Filmes e Series", HBO2 HD
 http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://futebolplayhd.com/imagens-futebol/f87a65d38810145cc49e01d0a3b40797.jpg" group-title="Filmes e Series", Fox Premium 1 HD
