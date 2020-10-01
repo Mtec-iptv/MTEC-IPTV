@@ -70,7 +70,7 @@ https://geralorigin.eu-central-1.edge.mycdn.live/mylive/universalsd/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8b/93/71/8b9371a84636e5303c71c815b7e236cd.png" group-title="Filmes e Series", Telecine Action HD
 https://geralorigin.eu-central-1.edge.mycdn.live/live/telecineactionhd/video.m3u8
 
-#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", TNT HD
+#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/3FTA3fvcO-Kpe89q4Rj0xSYxbxI=/300x300/top/smart/hagah/9/94/tnt-hd-94fc750f.jpg" group-title="Filmes e Series", TNT HD
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/tnthd/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/3FTA3fvcO-Kpe89q4Rj0xSYxbxI=/300x300/top/smart/hagah/9/94/tnt-hd-94fc750f.jpg" group-title="Filmes e Series", Megapix HD
@@ -121,45 +121,45 @@ http://195.181.163.183:2200/PY-N/Band_Sports_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="Esportes", Combate HD
 http://195.181.163.183:2200/PY-N/Combate_HD-br/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Esportes", ESPN Extra
+#EXTINF:-1 tvg-logo="https://espnpressroom.com/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg" group-title="Esportes", ESPN Extra
 https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Esportes", ESPN HD
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/espn-logo_divulgacao-820x305.png" group-title="Esportes", ESPN HD
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_480_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Esportes", ESPN 2 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="Esportes", ESPN 2 HD
 https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_360_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Esportes", Fox Sports HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png" group-title="Esportes", Fox Sports HD
 http://195.181.163.183:2200/PY-N/Fox_Sports_HD-br/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Esportes", Fox Sports 2 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/640px-2015_Fox_sports_logo.svg.png" group-title="Esportes", Fox Sports 2 HD
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/foxsports2hd/video.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Esportes", Sportv HD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Esportes", Sportv HD
 http://195.181.163.183:2200/PY-N/Sportv_HD-br/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Esportes", Sportv 2 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/1200px-SporTV_2_2017_logo.svg.png" group-title="Esportes", Sportv 2 HD
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportv2sd/video.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Esportes", Sportv 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SporTV_3_2017_logo.svg/1200px-SporTV_3_2017_logo.svg.png" group-title="Esportes", Sportv 3
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportv3sd/video.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Esportes", Premiere
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="Esportes", Premiere
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1sd/video.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentários", Discovery Channel HD
+#EXTINF:-1 tvg-logo="https://canaismax.com/img/canais/efef054f98e20dd99bef7aad2df1a522.png" group-title="Documentários", Discovery Channel HD
 http://195.181.163.183:2200/PY-N/Discovery_Channel_HD-br/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentários", History Channel HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="Documentários", History Channel HD
 http://195.181.163.183:2200/PY-N/The_History_Channel_HD-br/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentários", Animal Planet HD
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/animalplanet2019.png" group-title="Documentários", Animal Planet HD
 http://195.181.163.183:2200/PY-N/Animal_Planet_HD-br/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentários", Nat Geo HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Documentários", Nat Geo HD
 http://195.181.163.183:2200/PY-N/Nat_Geo_HD-br/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="Documentários", RT Documentary Channel
@@ -168,29 +168,29 @@ https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
 #EXTINF:-1 tvg-logo="https://www.mebis.bayern.de/wp-content/uploads/sites/2/2019/10/960.png" group-title="Documentários", DW - Latino América
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentários", GarageTV
+#EXTINF:-1 tvg-logo="https://csinfomotordotcom.files.wordpress.com/2014/03/cartel-garage-2013.jpg" group-title="Documentários", GarageTV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w275294852_b1296000_sleng.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Noticias", Globo News HD
+#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-240-canal-globo-news-hd.png" group-title="Noticias", Globo News HD
 http://195.181.163.183:2200/PY-N/Globo_News_HD-br/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="Noticias", Record News HD
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Noticias", Band News HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/1200px-BandNews_TV_logo_2010.svg.png" group-title="Noticias", Band News HD
 http://195.181.163.183:2200/PY-N/Band_News_HD-br/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Músicas", Multishow
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/2260px-Multishow_logo_red_2012.svg.png" group-title="Músicas", Multishow
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/multishowsd/video.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Músicas", MTV
+#EXTINF:-1 tvg-logo="https://revista.cifras.com.br/wp-content/uploads/2013/08/6713.7833.jpg" group-title="Músicas", MTV
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/mtvsd/video.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Músicas", Top TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Top_TV_logo.svg" group-title="Músicas", Top TV
 https://5d23bdca513db.streamlock.net/8006/8006/chunklist_w654982812.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/801/931/png-transparent-k-pop-arirangtv-music-korean-broadcasting-system-others-text-logo-kpop.png" group-title="Músicas", Kpop TV
@@ -202,5 +202,5 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://retromusic.com.uy/player/tmp/images/default.png" group-title="Músicas", Retro Music HD
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Músicas", 1HD Music
+#EXTINF:-1 tvg-logo="https://1hd.tv/bitrix/templates/smashweb_v2/images/logo.svg" group-title="Músicas", 1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
