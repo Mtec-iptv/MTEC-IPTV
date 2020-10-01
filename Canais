@@ -2,16 +2,16 @@
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia-2/images/7/73/20140404223310%21Rede-Globo-logo-2014.png" group-title="Abertos", Globo HD
 https://geralorigin.eu-central-1.edge.mycdn.live/live/globosp/video.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Abertos", Record HD
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-7LbdShGEuwk/VmbbgTjmO2I/AAAAAAAABpk/vFCW7XlKgPw/s1600/RECORD.png" group-title="Abertos", Record HD
 https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Abertos", Band HD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="Abertos", https://3.bp.blogspot.com/-7LbdShGEuwk/VmbbgTjmO2I/AAAAAAAABpk/vFCW7XlKgPw/s1600/RECORD.pnghttps://3.bp.blogspot.com/-7LbdShGEuwk/VmbbgTjmO2I/AAAAAAAABpk/vFCW7XlKgPw/s1600/RECORD.png
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Abertos", SBT HD
+#EXTINF:-1 tvg-logo="https://img.favpng.com/24/6/15/tv-bandeirantes-campinas-logo-tv-bandeirantes-rio-de-janeiro-png-favpng-JzEN24XHZxAaSHWbfquHjsg6N.jpg" group-title="Abertos", SBT HD
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Rede.Uni%C3%A3o.de.Televis%C3%A3o.png" group-title="Abertos", TV união
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/4e58712f10b3d9219c4207cc82f20dcd.png" group-title="Abertos", TV união
 https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/29bd5af93095d92009a3090c0b978a60.png" group-title="Abertos", Diario do Sertao
@@ -20,16 +20,16 @@ http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/436bef8a50bb812e1894c7fe29107957.png" group-title="Abertos", TV Ambiental
 https://59e4b6c1beddc.streamlock.net/8168/8168/chunklist_w1091858751.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Abertos", Canção Nova
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/cancao-nova-logo.png" group-title="Abertos", Canção Nova
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Abertos", Rede Vida
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/rede-vida-logo.png" group-title="Abertos", Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Abertos", Canal Futura
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1034px-Canal_Futura.png" group-title="Abertos", Canal Futura
 https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Abertos", TVE
+#EXTINF:-1 tvg-logo="https://abmp.com.br/wp-content/uploads/2016/11/capa_tve.png" group-title="Abertos", TVE
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-cultura-logo-8043A38965-seeklogo.com.png" group-title="Abertos", TV CULTURA
@@ -40,19 +40,19 @@ http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/chunklist_w1647341087.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", A&E HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png" group-title="Filmes e Series", A&E HD
 https://geralorigin.eu-central-1.edge.mycdn.live/live/aehd/video.m3u8
 
 #EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", AXN HD
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/axnsd/video.m3u8
 
-#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", HBO2 HD
+#EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/334-3348608_axn-hd-logo-2015-axn-logo-png-transparent.png" group-title="Filmes e Series", HBO2 HD
 http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8
 
-#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", Fox Premium 1 HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-premium-1-hd_m.png" group-title="Filmes e Series", Fox Premium 1 HD
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 
-#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", Fox Premium 2 HD
+#EXTINF:-1 tvg-logo="https://i1.wp.com/associacaoneo.com.br/wp-content/uploads/2014/11/LOGO-FOXPREMIUM_BRASIL2.png" group-title="Filmes e Series", Fox Premium 2 HD
 https://geralorigin.eu-central-1.edge.mycdn.live/live/foxpremium2sd/video.m3u8
 
 #EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", FX HD
