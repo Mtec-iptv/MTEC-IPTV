@@ -61,10 +61,10 @@ https://geralorigin.eu-central-1.edge.mycdn.live/live/fxhd/video.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LrWhQBx4zi0/WmO2Ibo5_5I/AAAAAAABDbM/wjOq8TCWZWoAoJTnkvXnc4cZY5Ssu36DACLcBGAs/s640/spacehd.png" group-title="Filmes e Series", Space HD
 https://geralorigin.eu-central-1.edge.mycdn.live/live/spacehd/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://clarocombo.claro.com.br/image/Get/478" group-title="Filmes e Series", Telecine Premium HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="Filmes e Series", Telecine Premium HD
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/telecinepremiumsd/video.m3u8
 
-#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", Universal Channel
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/a/a0/Universal_Channel_logo.png" group-title="Filmes e Series", Universal Channel
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/universalsd/video.m3u8
 
 #EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", Telecine Action HD
