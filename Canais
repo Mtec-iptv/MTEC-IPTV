@@ -67,47 +67,47 @@ https://geralorigin.eu-central-1.edge.mycdn.live/mylive/telecinepremiumsd/video.
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/a/a0/Universal_Channel_logo.png" group-title="Filmes e Series", Universal Channel
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/universalsd/video.m3u8
 
-#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", Telecine Action HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8b/93/71/8b9371a84636e5303c71c815b7e236cd.png" group-title="Filmes e Series", Telecine Action HD
 https://geralorigin.eu-central-1.edge.mycdn.live/live/telecineactionhd/video.m3u8
 
 #EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", TNT HD
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/tnthd/video.m3u8
 
-#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", Megapix HD
+#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/3FTA3fvcO-Kpe89q4Rj0xSYxbxI=/300x300/top/smart/hagah/9/94/tnt-hd-94fc750f.jpg" group-title="Filmes e Series", Megapix HD
 
-#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", Fox Channel HD
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/831/264/png-transparent-fox-channel-television-show-fox-international-channels-fox-life-fox-television-angle-animals.png" group-title="Filmes e Series", Fox Channel HD
 https://geralorigin.eu-central-1.edge.mycdn.live/live/foxhd/video.m3u8
 
-#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", Cinemax HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1200px-Cinemax.svg.png" group-title="Filmes e Series", Cinemax HD
 https://geralorigin.eu-central-1.edge.mycdn.live/live/cinemaxhd/video.m3u8
 
-#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", Sony HD
+#EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180519/tzs/kisspng-sony-entertainment-television-sony-channel-televis-5affd5f9d68484.0218421515267158978787.jpg" group-title="Filmes e Series", Sony HD
 https://geralorigin.eu-central-1.edge.mycdn.live/live/sonyhd/video.m3u8
 
-#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", Studio Universal
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ledFLQI3h4w/Vw2IxysiOgI/AAAAAAAAqck/BHPl5Q3yULooKqEav025a7ym1IdrZA6mwCKgB/s1600/Universal-Studio_Logo.jpg" group-title="Filmes e Series", Studio Universal
 https://geralorigin.eu-central-1.edge.mycdn.live/live/studiouniversalsd/video.m3u8
 
-#EXTINF:-1 tvg-logo="/iptv-list.jpg" group-title="Filmes e Series", Warner Channel HD
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/warnerchannel.png" group-title="Filmes e Series", Warner Channel HD
 https://geralorigin.eu-central-1.edge.mycdn.live/live/warnerbrosshd/video.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Filmes e Series", Lifetime HD
+#EXTINF:-1 tvg-logo="https://unity-img.tbxapis.com/v0/images/85868c6f5d1ff3e0b94d21e97cd6662d/section/5e5d19387a3ff049eaf4849f/4f12b95f92b0ef310be380695e0cf02f/img.png" group-title="Filmes e Series", Lifetime HD
 http://195.181.163.183:2200/PY-N/Lifetime_HD-br/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Infantil", Cartoon Network HD
+#EXTINF:-1 tvg-logo="https://apps.cartoonnetwork.com.br/uploads/galleries/app/app1/5/426/mini/2ec5514b65bdb23768402fdc9382e50217838457.jpg" group-title="Infantil", Cartoon Network HD
 http://195.181.163.183:2200/PY-N/Cartoon_HD-br/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Infantil", Nick Jr HD
+#EXTINF:-1 tvg-logo="https://s3-sa-east-1.amazonaws.com/img.vivaexperiencias.com.br/experiencia/novo_layout/6e2579836b4d874cbb5068c217f8485d1b39dccd.730x479.jpg" group-title="Infantil", Nick Jr HD
 http://195.181.163.183:2200/PY-N/Nick_Jr_HD-br/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Infantil", Nickelodeon HD
+#EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/146-1466430_nickelodeon-channel-hd-logo-hd-png-download.png" group-title="Infantil", Nickelodeon HD
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/nicksd/video.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Infantil", Discovery Kids HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Infantil", Discovery Kids HD
 http://195.181.163.183:2200/PY-N/Discovery_Ks_HD-br/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Infantil", Boomerang HD
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/148-1483809_boomerang-hd-boomerang-channel-logo-2017.png" group-title="Infantil", Boomerang HD
 http://195.181.163.183:2200/PY-N/Boomerang_HD-br/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/05ad1060b11abe78c4958ca305b2d168.png" group-title="Infantil", Kuriakos Kids
@@ -115,10 +115,10 @@ http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Esportes", Band Sports HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_bandsports-hd_m.png" group-title="Esportes", Band Sports HD
 http://195.181.163.183:2200/PY-N/Band_Sports_HD-br/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Esportes", Combate HD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="Esportes", Combate HD
 http://195.181.163.183:2200/PY-N/Combate_HD-br/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Esportes", ESPN Extra
